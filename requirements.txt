@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+pandas
+numpy
+yfinance
+matplotlib
+requests
+polygon-api-client
